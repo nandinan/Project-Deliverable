@@ -1,0 +1,13 @@
+run:
+Enter any integer value to be stored in list1
+4
+3
+3
+3
+Enter any integer value to be stored in list2
+4
+3
+3
+3
+The arrays are identical
+BUILD SUCCESSFUL (total time: 15 seconds)
