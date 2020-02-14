@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 
 /**
- *
+ *hello
  * @author nandini
  */
 public class Quiz5 {
